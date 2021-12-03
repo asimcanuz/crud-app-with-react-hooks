@@ -1,6 +1,6 @@
 # CRUD App with hooks
 
-** Bu Projede react hook'lar ile birlikte CRUD işlemleri gerçekleştirdim**
+**Bu Projede react hook'lar ile birlikte CRUD işlemleri gerçekleştirdim**
 
 - Create : Yeni kullanıcı eklenmesi
 - Read : Mevcut kullanıcıların getirilmesi
